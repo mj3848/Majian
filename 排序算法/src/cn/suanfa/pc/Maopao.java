@@ -22,7 +22,7 @@ public class Maopao {
 		/**
 		 * 	1.找出最小值的索引,但是不交换值
 		 * 	
-		 * 	2,...
+		 * 	2,... aaaa
 		 */
 		
 		int index = 0 ;
